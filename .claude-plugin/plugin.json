@@ -1,0 +1,11 @@
+{
+  "name": "aegis-security-agent",
+  "version": "1.0.0",
+  "description": "Evidence-driven security audits, remediation, and repeated verification.",
+  "author": {
+    "name": "Skryd1X"
+  },
+  "homepage": "https://github.com/Skryd1X/aegis-security-agent",
+  "repository": "https://github.com/Skryd1X/aegis-security-agent",
+  "license": "MIT"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "aegis-security-agent-marketplace",
+  "owner": {
+    "name": "Skryd1X"
+  },
+  "plugins": [
+    {
+      "name": "aegis-security-agent",
+      "source": "./",
+      "description": "Audit, fix, and verify software security."
+    }
+  ]
+}

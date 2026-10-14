@@ -1,0 +1,6 @@
+interface:
+  display_name: "Aegis Security Agent"
+  short_description: "Audit, fix, and verify software security risks"
+  default_prompt: "Use $aegis-security-agent to audit this project, fix in-scope vulnerabilities, and repeat security and functional checks with evidence."
+policy:
+  allow_implicit_invocation: true
